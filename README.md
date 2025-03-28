@@ -19,7 +19,7 @@
 <!-- Redes Sociales -->
 <div align="right">
   <h3>📱 Redes Sociales</h3>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="35" alt="YouTube" /></a>
+  <a href="https://youtube.com/@joxini5979?si=vrc04fcG1awqvWtZ "><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="35" alt="YouTube" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35" alt="Twitch" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord" /></a>
