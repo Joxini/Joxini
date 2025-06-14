@@ -37,13 +37,13 @@
   <h2 style="color: #00ffcc; text-align: center;">📱 Conecta Conmigo</h2>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://www.instagram.com/joxini_jv?igsh=MXZmYTE1ODJpZ2V3NQ==">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" style="border-radius: 10px;" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" style="border-radius: 10px;" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" style="border-radius: 10px;" />
     </a>
   </div>
 </div>
