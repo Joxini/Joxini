@@ -1,9 +1,31 @@
-<!-- Encabezado con Animación de Escritura -->
+<!-- Encabezado con Animación de Palabras -->
 <div align="center">
   <h1>👨‍💻 ¡Bienvenidos al Mundo de Joxini!</h1>
   <p style="font-size: 1.2em; color: #b0b0b0;">
     <span style="font-style: italic;">Desarrollador Full-Stack | Creador de Contenido | Entusiasta de la Tecnología</span>
   </p>
+  <h1 style="font-size: 2.5em; color: white; font-family: 'Courier New', monospace;">
+    I'M A 
+    <span style="position: relative; display: inline-block; color: #ff8800; height: 1.25em; vertical-align: bottom; overflow: hidden;">
+      <span style="display: block; animation: animacion_palabras 5s infinite ease;">
+        <span style="display: block;">CODER</span>
+        <span style="display: block;">DEVELOPER</span>
+        <span style="display: block;">PROGRAMMER</span>
+        <span style="display: block;">DESIGNER</span>
+        <span style="display: block;">FREELANCER</span>
+      </span>
+    </span>
+  </h1>
+  <style>
+    @keyframes animacion_palabras {
+      0% { transform: translateY(0%); }
+      20% { transform: translateY(-100%); }
+      40% { transform: translateY(-200%); }
+      60% { transform: translateY(-300%); }
+      80% { transform: translateY(-400%); }
+      100% { transform: translateY(-400%); }
+    }
+  </style>
 </div>
 
 <!-- Sección de Estadísticas y Lenguajes -->
