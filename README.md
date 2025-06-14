@@ -35,11 +35,11 @@
 <!-- Sección de Redes Sociales con Diseño Atractivo -->
 <div style="background-color: #222; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 30px;">
   <h2 style="color: #00ffcc; text-align: center;">📱 Conecta Conmigo</h2>
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; border-radius: 8px;">
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://www.instagram.com/joxini_jv?igsh=MXZmYTE1ODJpZ2V3NQ==">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" style="border-radius: 10px;" />
     </a>
-    <a href="#" style="border-radius: 8px;">
+    <a href="#">
       <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" style="border-radius: 10px;" />
     </a>
     <a href="#">
