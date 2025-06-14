@@ -4,7 +4,6 @@
   <p style="font-size: 1.2em; color: #b0b0b0;">
     <span style="font-style: italic;">Desarrollador Full-Stack | Creador de Contenido | Entusiasta de la Tecnología</span>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Creando+proyectos+incre%C3%ADbles+con+c%C3%B3digo;Produciendo+contenido+en+YouTube+y+Twitch;Apasionado+por+JavaScript%2C+Python+y+PHP" alt="Typing SVG" />
 </div>
 
 <!-- Sección de Estadísticas y Lenguajes -->
