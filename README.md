@@ -32,18 +32,27 @@
   </div>
 </div>
 
-<!-- Sección de Redes Sociales con Diseño Atractivo -->
+<!-- Sección de Redes Sociales con Diseño Bonito -->
 <div style="background-color: #222; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 30px;">
   <h2 style="color: #00ffcc; text-align: center;">📱 Conecta Conmigo</h2>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://www.instagram.com/joxini_jv?igsh=MXZmYTE1ODJpZ2V3NQ==">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" style="border-radius: 10px;" />
+      <div style="background: linear-gradient(45deg, #ff6f61, #6b48ff); padding: 5px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s;"
+           onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" style="border-radius: 15px;" />
+      </div>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" style="border-radius: 10px;" />
+      <div style="background: linear-gradient(45deg, #ff6f61, #6b48ff); padding: 5px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s;"
+           onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" style="border-radius: 15px;" />
+      </div>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" style="border-radius: 10px;" />
+      <div style="background: linear-gradient(45deg, #ff6f61, #6b48ff); padding: 5px; border-radius: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s;"
+           onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" style="border-radius: 15px;" />
+      </div>
     </a>
   </div>
 </div>
