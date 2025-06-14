@@ -39,7 +39,7 @@
     <a href="https://www.instagram.com/joxini_jv?igsh=MXZmYTE1ODJpZ2V3NQ==">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" style="border-radius: 10px;" />
     </a>
-    <a href="#">
+    <a href="#" style="border-radius: 8px;">
       <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" style="border-radius: 10px;" />
     </a>
     <a href="#">
