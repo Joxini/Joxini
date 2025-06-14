@@ -43,7 +43,7 @@
      onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
   <h2 style="color: #e0fbfc; text-align: center; font-size: 1.6em;">📲 Conéctate Conmigo</h2>
   <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-    <a href="https://www.instagram.com/joxini_jv?igsh=MXZmYTE1ODJpZ2V3NQ==">
+    <a href="https://www.instagram.com/joxini_jv?igsh=MXZmYTE1ODJpZ2V3NQ==" target="_blank">
       <div style="background: linear-gradient(45deg, #e91e63, #9c27b0); padding: 10px; border-radius: 30px; box-shadow: 0 8px 25px rgba(233, 30, 99, 0.5); transition: transform 0.3s;"
            onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50" alt="Instagram" style="border-radius: 25px;" />
@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Gmail" style="border-radius: 25px;" />
       </div>
     </a>
-    <a href="#">
+    <a href="#" target="_blank">
       <div style="background: linear-gradient(45deg, #0288d1, #03a9f4); padding: 10px; border-radius: 30px; box-shadow: 0 8px 25px rgba(2, 136, 209, 0.5); transition: transform 0.3s;"
            onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" style="border-radius: 25px;" />
