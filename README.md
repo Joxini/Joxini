@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👨‍💻 ¡Bienvenidos al Mundo de Joxini!</h1>
   <p style="font-size: 1.2em; color: #b0b0b0;">
-    <span style="font-style: italic;">Desarrollador Full-Stack | Creador de Contenido | Entusiasta de la Tecnología</span>
+    <span style="font-style: italic;">Desarrollador Full-Stack | Entusiasta de la Tecnología</span>
   </p>
   <h1 style="font-size: 2.5em; color: white; font-family: 'Courier New', monospace;">
     I'M A 
@@ -37,17 +37,8 @@
 <div align="center" style="margin: 30px 0;">
   <h2>📱 Conecta Conmigo</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://youtube.com/@joxini5979?si=vrc04fcG1awqvWtZ">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube" />
-    </a>
     <a href="https://www.instagram.com/joxini_jv?igsh=MXZmYTE1ODJpZ2V3NQ==">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" alt="Twitch" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
